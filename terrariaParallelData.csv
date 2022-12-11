@@ -1,4 +1,4 @@
-Class,DPS (1 target),Knockback,Critical Chance,Use Time
+Class,DPS_1_Target,Knockback,Critical_Chance,Use_Time
 Melee,20,5,4,20
 Melee,25,6,4,20
 Melee,25,6,4,19
